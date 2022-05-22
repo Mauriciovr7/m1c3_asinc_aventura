@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://i.blogs.es/1a727f/avatar-the-last-air-bender-netflix/1366_2000.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Macondo', cursive;
+}
+
+button {
+    background: rgb(182, 217, 220);
+}
+
+img {
+    width: 200px;
+}
+
+p {
+    background: yellowgreen;
+}
