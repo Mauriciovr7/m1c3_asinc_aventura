@@ -14,5 +14,6 @@ img {
 }
 
 p {
-    background: yellowgreen;
+    background: #DCF0A1;
+    border: dotted red;
 }
